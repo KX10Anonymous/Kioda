@@ -1,0 +1,71 @@
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+api/kioda/src/main/resources/invoices/
+api/kioda/src/main/resources/utilities/
+### VS Code ###
+.vscode/
+
+### React Native ###
+mobile/kioda/node_modules/
+mobile/kioda/android/
+mobile/kioda/ios/
+mobile/kioda/.vscode
+mobile/kioda/yarn.lock
+mobile/kioda/.expo/
+mobile/kioda/.bundle/
+mobile/kioda/__tests__/
+mobile/kioda/.eslint/
+mobile/kioda/.prettierrc.js
+mobile/kioda/.watchmanconfig
+moobile/kioda/Gemfile
+mobile/kioda/jest.config.js
+mobile/kioda/metro.config.js
+mobile/kioda/tsconfig.json
+mobile/kioda/src/assets/
+mobile/kioda/package-lock.json
+
+### React###
+web/kioda/node_modules/
+web/kioda/public/components/
+web/kioda/yarn.lock
+web/kioda/public/
+web/kioda/package-lock.json
+web/kioda/.yarn/
+web/kioda/yarn-error.log
+web/kioda/.yarnrc
+web/kioda/README.md
+web/kioda/build/
+web/kioda/.gitignore
+
+mobile/kioda/assets/ 
