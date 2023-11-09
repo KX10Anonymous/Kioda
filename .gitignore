@@ -33,6 +33,12 @@ build/
 
 api/kioda/src/main/resources/invoices/
 api/kioda/src/main/resources/utilities/
+api/kioda/.mvn/
+api/kioda/mvnw
+api/kioda/mvnw.cmd
+api/kioda/compose.yaml
+api/kioda/HELP.md
+
 ### VS Code ###
 .vscode/
 
